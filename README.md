@@ -1,14 +1,14 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas Alves!
 
-- 👨‍🎓 I'm Brazilian, born and raised in Brasília, and currently a Software Engineering student at the University of Brasília. I'm passionate about technology and constantly exploring the world of software development—a field that inspires me and where I aspire to build my career.
+- 👨‍🎓 I'm Brazilian, born and raised in Brasília, and currently a Software Engineering student at the University of Brasília. I'm passionate about technology and constantly exploring the world of software development, a field that inspires me and where I aspire to build my career.
 - 💬 Ask me about games 🎮 and coding 👨‍💻;
 - 😄 Pronouns: He/him;
 - ⚡ Fun fact: I love listen to music while I'm coding.
 
 ## 🚀 Tools and Technologies 
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 
 ## 🌱 I'm learning 
 
